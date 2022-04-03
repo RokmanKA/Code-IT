@@ -1,31 +1,29 @@
+body {
+    background: goldenrod;
+}
 h1 {
-    background: goldenrod;
-    color: darkblue;
+    background: gold;
+    color: black;
 }
-
 h2 {
-    background: goldenrod;
-    color: darkblue;
+    background: gold;
+    color: black;
 }
-a {
-color: darkblue;
-}
-
-p {
-    background: goldenrod;
-    color: darkblue;
-}
-
 ul {
     background: goldenrod;
-    color: darkblue;
+    color: black;
 }
-
 li {
     background: goldenrod;
-    color: darkblue;
+    color: black;
 }
-
+p {
+    background: goldenrod;
+    color: black;
+}
+a {
+    color: black;
+}
 img {
-    width: 300px;
+   width: 300px;
 }
