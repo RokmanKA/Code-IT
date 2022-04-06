@@ -1,0 +1,86 @@
+.fa-award {
+    margin-top: 50px;
+    font-size: 60px;
+    text-align: center;
+    display: block;
+    color: rgba(0, 0, 0, 0.7);
+
+}
+.fa-heart {
+    margin-top: 50px;
+    font-size: 60px;
+    text-align: center;
+    display: block;
+    color: rgba(0, 0, 0, 0.7);
+}
+.fa-user-tie {
+    margin-top: 50px;
+    font-size: 60px;
+    text-align: center;
+    display: block;
+    color: rgba(0, 0, 0, 0.7);
+}
+.fa-avianex {
+    margin-top: 50px;
+    font-size: 60px;
+    text-align: center;
+    display: block;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.box {
+    display: flex;
+    height: 600px;
+    background: rgba(225, 27, 27, 0.84);
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+}
+
+.card {
+    width: 310px;
+    height: 450px;
+    background:linear-gradient(orangered,yellow );
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 30px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+
+}
+
+p {
+    margin-top: 30px;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.txt {
+    margin-top: 3px;
+    color: rgba(0, 0, 0, 0.58);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    width: 70%;
+}
+
+.box1 {
+    margin-top: 30px;
+    height: 60px;
+    width: 260px;
+    background:linear-gradient(rgba(255, 219, 6, 0.65),firebrick );
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.7);
+    box-sizing: border-box;
+    border: 1px solid rgba(201, 0, 0, 0.58);
+    border-radius: 30px ;
+
+}
