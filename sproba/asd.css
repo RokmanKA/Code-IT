@@ -17,7 +17,8 @@ h1 {
 
 }
 
-h2 { text-decoration: none;
+h2 {
+    text-decoration: none;
     width: 600px;
     margin: 0 auto;
     display: block;

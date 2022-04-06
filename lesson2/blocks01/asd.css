@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+.box {
+    background: firebrick;
+    height: 800px;
+    width: 550px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.box1 {
+    background: black;
+    height: 220px;
+    width: 550px;
+    margin: 15PX;
+    color: aliceblue;
+    display: flex;
+justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+.box2 {
+    background: black;
+    height: 150px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 20px;
+    display: flex;
+    margin: 0px 16.6px 0px 16.6px;
+
+}
+.box3 {
+    background: black;
+    height: 366px;
+    width: 550px;
+    margin: 15px;
+    display: flex;
+    color: aliceblue;
+    font-size: 80px;
+    justify-content: center;
+    align-items: center;
+}
