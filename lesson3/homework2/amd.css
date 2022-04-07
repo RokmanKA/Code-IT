@@ -3,25 +3,44 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .box {
     width: 700px;
     height: 200px;
-    background: silver;
+    background: rgba(0, 115, 255, 0.69);
     display: flex;
     justify-content: center;
     position: relative;
     align-items: flex-end;
-    border-radius: 8px;
+}
+
+.box2 {
+    width: 700px;
+    height: 200px;
+    background: #ffdb06;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: flex-end;
 }
 
 .card {
+    justify-content: center;
+    align-items: center;
+    display: flex;
     width: 120px;
     height: 120px;
-    background: black;
+    background:linear-gradient(#b60000,black );
     margin: 20px;
     border-radius: 8px;
     position: relative;
     top: 80px;
+    z-index: 1;
+}
+
+img {
+    width: 50%;
+    height: 50%;
 }
