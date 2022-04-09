@@ -1,0 +1,295 @@
+body {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    height: 250px;
+    background: silver;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.box1 {
+    display: flex;
+    width: 120px;
+    height: 120px;
+    background: #3c3f41;
+    margin-left: 100px;
+    margin-right: 200px;
+    border-radius: 50%;
+}
+img {
+    border-radius: 50%;
+
+}
+
+.box2 {
+    width: 150px;
+    height: 40px;
+    background: #3c3f41;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.hero {
+    width: 100%;
+    height: 200px;
+    background: silver;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bo1 {
+    margin-bottom: 20px;
+    width: 500px;
+    height: 50px;
+    background: #3c3f41;
+    border-radius: 15px;
+}
+
+.bo2 {
+    width: 640px;
+    height: 50px;
+    background: #3c3f41;
+    border-radius: 15px;
+}
+
+.hero1 {
+    width: 100%;
+    height: 350px;
+    background: silver;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+}
+
+.bo3 {
+    margin-top: 40px;
+    width: 350px;
+    height: 50px;
+    background: white;
+    border-radius: 50px;
+    position: relative;
+    top: 15px;
+    left: 40px;
+}
+
+.bo4 {
+    margin-top: 40px;
+    width: 200px;
+    height: 80px;
+    background: #3c3f41;
+    border-radius: 50px;
+    z-index: 1;
+}
+
+.destinations {
+    width: 100%;
+    height: 320px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.des1 {
+    margin-bottom: 20px;
+    width: 750px;
+    height: 50px;
+    background: #3c3f41;
+    border-radius: 15px;
+}
+
+.des2 {
+    margin-bottom: 20px;
+    width: 600px;
+    height: 50px;
+    background: rgba(60, 63, 65, 0.8);
+    border-radius: 15px;
+}
+
+.des3 {
+    margin-bottom: 20px;
+    width: 450px;
+    height: 50px;
+    background: rgba(60, 63, 65, 0.8);
+    border-radius: 15px;
+}
+
+.hero2 {
+    width: 100%;
+}
+
+.he1 {
+    width: 100%;
+    height: 300px;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    margin-top: 20px;
+}
+
+.her1 {
+    width: 32.7%;
+    height: 100%;
+    background: #3c3f41;
+}
+
+.her2 {
+    width: 66.3%;
+    height: 100%;
+    background: #3c3f41;
+}
+
+.her3 {
+    width: 32.5%;
+    height: 100%;
+    background: #3c3f41;
+}
+
+.destinations1 {
+    width: 100%;
+    height: 320px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.offers {
+    width: 100%;
+    height: 900px;
+    display: flex;
+    flex-direction: row;
+}
+
+.colona1 {
+    height: 100%;
+    width: 30%;
+}
+
+.cards {
+    width: 360px;
+    height: 200px;
+    background: #9b9c9d;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+.colona2 {
+    height: 100%;
+    width: 35%;
+}
+
+.cards1 {
+    width: 360px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text {
+    width: 95%;
+    height: 35px;
+    background: #3c3f41;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.text1 {
+    width: 60%;
+    height: 25px;
+    background: rgba(60, 63, 65, 0.84);
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.text2 {
+    width: 40%;
+    height: 20px;
+    background: rgba(60, 63, 65, 0.51);
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.text3 {
+    width: 40%;
+    height: 35px;
+    background: #3c3f41;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+.footer {
+    width: 100%;
+    height: 350px;
+   background: silver;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.foo1 {
+    margin: 20px;
+    width: 20%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bob {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    width: 95%;
+    height: 30px;
+    background: #3c3f41;
+    border-radius: 15px;
+}
+
+.bob1 {
+    margin-top: 10px;
+    width: 60%;
+    height: 20px;
+    background: #5b5e60;
+    border-radius: 15px;
+}
+
+.bob3 {
+    margin-top: 10px;
+    width: 65%;
+    height: 40px;
+    background: #3c3f41;
+    border-radius: 15px;
+    margin-left: 17%;
+}
+
+.bob4{
+    margin-top: 10px;
+    width: 80%;
+    height: 90px;
+    border-radius: 15px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.ooo {
+    width: 60px;
+    height: 60px;
+    background: #5b5e60;
+    margin: 10px;
+    border-radius: 50%;
+}
