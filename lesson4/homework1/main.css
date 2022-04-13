@@ -13,9 +13,15 @@ body {
 }
 
 .box1 {
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
     height: 230px;
-    background: #b60000;
+    background: slategray;
+    border-radius: 8px;
+    border: 1px solid black;
 
 }
 
@@ -34,19 +40,26 @@ body {
     display: flex;
     flex-direction: column;
     column-gap: 10px;
+    row-gap: 10px;
 
 }
 
 .blok2 {
     width: 20%;
     height: 100%;
-    background: #3c3f41;
+    background: slategray;
     display: flex;
     flex-direction: column;
     column-gap: 10px;
     row-gap: 10px;
+    border-radius: 8px;
+    border: 1px solid black;
+    font-size: 60px;
+    align-items: center;
+    justify-content: center;
 
 }
+
 .lol1 {
     width: 100%;
     height: 50%;
@@ -62,10 +75,17 @@ body {
     display: flex;
     flex-direction: row;
     column-gap: 10px;
+    row-gap: 10px;
 }
 
 .card1 {
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 33.3%;
     height: 100%;
-    background: #ffdb06;
+    background: slategray;
+    border-radius: 8px;
+    border: 1px solid black;
 }
