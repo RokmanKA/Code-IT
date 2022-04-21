@@ -94,6 +94,66 @@
 //////////////////////////////////////////////////////////////
 
 
+// let books = [
+//     {title: 'bob', pages:10,genre:'drama',autor:['asd','web', 'ford'] },
+//     {title: 'pab', pages:20,genre:'fantasy',autor:['asd','web', 'ford'] },
+//     {title: 'lol', pages:30,genre:'drama',autor:['asd','web', 'ford'] },
+//     {title: 'hah', pages:40,genre:'fantasy',autor:['asd','web', 'ford'] },
+// ];
+//
+// console.log(books[0]);
+// console.log(books[1]);
+// console.log(books[2]);
+// console.log(books[3]);
+
+/////////////////////////////////////////////////////////
+
+
+
+// let a1 ='hello';
+// let a2 ='owu';
+// let a3 = 'com';
+// let a4 = 'ua';
+// let a5 = 1;
+// let a6 = 10;
+// let a7 = -999;
+// let a8 = 123;
+// let a9 = 3.14;
+// let  a10 = 2.7;
+// let  a11 = 16;
+// let a12 = true;
+// let a13 = false;
+//
+// let cont = `${a1} ${a2} ${a3} ${a4}`;
+//
+// console.log(cont);
+//
+//
+//
+// alert(a5);
+// alert(a6);
+// alert(a7);
+// alert(a8);
+// alert(a9);
+//
+// document.write(a10);
+// document.write(a11);
+// document.write(a12);
+// document.write(a13);
+
+
+//////////////////////////////////////////////////////////
+
+// let name = 'string';
+// let n = 'nomer';
+// let janr = 'string';
+//
+// let bob = `${name} ${n} ${janr}`;
+//
+// console.log(bob);
+
+////////////////////////////////////////////////////////
+
 let books = [
     {title: 'bob', pages:10,genre:'drama',autor:['asd','web', 'ford'] },
     {title: 'pab', pages:20,genre:'fantasy',autor:['asd','web', 'ford'] },
