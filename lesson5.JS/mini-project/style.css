@@ -1,0 +1,19 @@
+.user {
+    background: black;
+    width: 250px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-left: calc(23% - 100px);
+    margin-right: calc(23% - 100px);
+    color: #ffdb06;
+    font-size: 19px;
+    text-decoration: none;
+}
+
+.users {
+    display: flex;
+    flex-wrap: wrap;
+}
