@@ -5,3 +5,17 @@
 .posts {
     background: #b60000;
 }
+
+.post {
+    background: rgba(255, 180, 0, 0.52);
+    margin: 3px;
+    width: 100px;
+    margin-left: calc(10% - 50px);
+    margin-right: calc(10% - 50px);
+}
+
+.postsDetailsButton {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+}

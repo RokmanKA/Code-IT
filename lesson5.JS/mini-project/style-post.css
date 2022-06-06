@@ -1,0 +1,15 @@
+.post {
+    background: burlywood;
+}
+
+.comments {
+    background: aqua;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.comments > li {
+    width: 110px;
+    background: #b60000;
+    margin: 10px;
+}
