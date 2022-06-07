@@ -11,7 +11,7 @@ userDetailsContainer.innerText = `${JSON.stringify(user)}`;
 postsDetailsButton.onclick = function () {
     this.disabled = true;
 
-    fetch(`https://jsonplaceholder.typicode.com/users/${user.id}/posts)`)
+    fetch(`https://jsonplaceholder.typicode.com/users/${user.id}/posts`)
         .then(value => value.json())
         .then(value => {
             for (const postItem of value) {
